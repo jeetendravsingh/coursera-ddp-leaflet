@@ -1,4 +1,4 @@
-# Coursera Developing Data Products Week 2 Peer-graded Assignment: Leaflet
+# Coursera Developing Data Products Week 2 Peer-graded Assignment:  Leaflet
 
 In this project, we created a web page using R Markdown that features a map created with Leaflet, representing the number of incoming passengers per station on the Parisian RATP railroad network in 2015.
 
